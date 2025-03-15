@@ -40,19 +40,19 @@
     "url": "https://notes.ulis.se",
     "icon": "https://icons.duckduckgo.com/ip3/notes.ulis.se.ico",
     "slug": "notes",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 558,
-    "timeDay": 558,
-    "timeWeek": 558,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "94.09%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "94.09%",
+    "uptimeMonth": "94.09%",
+    "uptimeYear": "94.09%",
+    "time": 508,
+    "timeDay": 508,
+    "timeWeek": 508,
+    "timeMonth": 508,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2025-03-15": 0
+      "2025-03-15": 62
     }
   }
 ]
