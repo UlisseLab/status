@@ -4,19 +4,19 @@
     "url": "https://openproject.ulis.se",
     "icon": "https://icons.duckduckgo.com/ip3/openproject.ulis.se.ico",
     "slug": "open-project",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 919,
-    "timeDay": 919,
-    "timeWeek": 919,
-    "timeMonth": 919,
-    "timeYear": 919,
+    "status": "up",
+    "uptime": "99.05%",
+    "uptimeDay": "99.05%",
+    "uptimeWeek": "99.05%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.05%",
+    "time": 882,
+    "timeDay": 882,
+    "timeWeek": 882,
+    "timeMonth": 882,
+    "timeYear": 882,
     "dailyMinutesDown": {
-      "2025-03-15": 2
+      "2025-03-15": 13
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://training.ulis.se",
     "icon": "https://icons.duckduckgo.com/ip3/training.ulis.se.ico",
     "slug": "training",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 709,
-    "timeDay": 709,
-    "timeWeek": 709,
-    "timeMonth": 709,
-    "timeYear": 709,
+    "status": "up",
+    "uptime": "99.18%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.18%",
+    "time": 649,
+    "timeDay": 649,
+    "timeWeek": 649,
+    "timeMonth": 649,
+    "timeYear": 649,
     "dailyMinutesDown": {
-      "2025-03-15": 0
+      "2025-03-15": 12
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://notes.ulis.se",
     "icon": "https://icons.duckduckgo.com/ip3/notes.ulis.se.ico",
     "slug": "notes",
-    "status": "down",
-    "uptime": "95.53%",
-    "uptimeDay": "95.53%",
-    "uptimeWeek": "95.53%",
-    "uptimeMonth": "95.53%",
-    "uptimeYear": "95.53%",
-    "time": 508,
-    "timeDay": 508,
-    "timeWeek": 508,
-    "timeMonth": 508,
-    "timeYear": 508,
+    "status": "up",
+    "uptime": "94.75%",
+    "uptimeDay": "94.75%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "94.75%",
+    "uptimeYear": "94.75%",
+    "time": 500,
+    "timeDay": 500,
+    "timeWeek": 500,
+    "timeMonth": 500,
+    "timeYear": 500,
     "dailyMinutesDown": {
-      "2025-03-15": 62
+      "2025-03-15": 73
     }
   }
 ]
