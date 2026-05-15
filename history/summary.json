@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/openproject.ulis.se.ico",
     "slug": "open-project",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.26%",
-    "time": 845,
-    "timeDay": 660,
-    "timeWeek": 795,
-    "timeMonth": 790,
+    "time": 846,
+    "timeDay": 1013,
+    "timeWeek": 837,
+    "timeMonth": 802,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2025-12-25": 19,
@@ -31,8 +31,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 791,
-      "2025-05-22": 12,
-      "2025-05-15": 19
+      "2025-05-22": 12
     }
   },
   {
@@ -41,15 +40,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/training.ulis.se.ico",
     "slug": "training",
     "status": "up",
-    "uptime": "75.26%",
+    "uptime": "75.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "71.18%",
     "time": 542,
-    "timeDay": 390,
-    "timeWeek": 543,
-    "timeMonth": 502,
+    "timeDay": 657,
+    "timeWeek": 574,
+    "timeMonth": 508,
     "timeYear": 539,
     "dailyMinutesDown": {
       "2026-03-27": 59,
@@ -169,8 +168,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 791,
-      "2025-05-22": 11,
-      "2025-05-15": 19
+      "2025-05-22": 11
     }
   },
   {
@@ -179,16 +177,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/notes.ulis.se.ico",
     "slug": "notes",
     "status": "up",
-    "uptime": "75.24%",
+    "uptime": "75.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "71.17%",
-    "time": 612,
-    "timeDay": 385,
-    "timeWeek": 487,
-    "timeMonth": 627,
-    "timeYear": 629,
+    "time": 613,
+    "timeDay": 652,
+    "timeWeek": 497,
+    "timeMonth": 632,
+    "timeYear": 628,
     "dailyMinutesDown": {
       "2026-03-27": 58,
       "2026-01-30": 147,
@@ -306,8 +304,7 @@
       "2025-06-03": 1440,
       "2025-06-02": 1440,
       "2025-06-01": 790,
-      "2025-05-22": 11,
-      "2025-05-15": 18
+      "2025-05-22": 11
     }
   },
   {
@@ -321,11 +318,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 613,
-    "timeDay": 581,
-    "timeWeek": 558,
-    "timeMonth": 571,
-    "timeYear": 613,
+    "time": 614,
+    "timeDay": 749,
+    "timeWeek": 588,
+    "timeMonth": 577,
+    "timeYear": 614,
     "dailyMinutesDown": {
       "2025-12-25": 18,
       "2025-12-24": 20,
